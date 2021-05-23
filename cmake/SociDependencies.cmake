@@ -17,7 +17,7 @@
 ################################################################################
 
 #
-# List of SOCI dependncies
+# List of SOCI dependencies
 #
 set(SOCI_CORE_DEPENDENCIES
   Threads
