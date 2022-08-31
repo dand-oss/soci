@@ -16,7 +16,7 @@ endif()
 set(Boost_USE_MULTITHREADED ON)
 # turn on __declspec(dllimport) modifiers
 # Find boost in "module" mode, not CONFIG mode - not BoostConfig.cmake
-find_package(Boost 1.78.0 EXACT REQUIRED COMPONENTS
+find_package(Boost 1.80.0 EXACT REQUIRED COMPONENTS
     date_time
     )
 
